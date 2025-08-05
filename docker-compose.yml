@@ -1,5 +1,4 @@
 version: "3.8"
-
 services:
   web:
      image: "ahsanmahmood95/notes-app"
